@@ -1,0 +1,9 @@
+Pesquisar como o computador geralmente usa memórias primárias:
+
+- A memória principal é um depósito temporário de dados e instruções dos programas de computador. A memória principal do computador é volátil, e seu tamanho é limitado pelo custo do hardware.
+
+- A memória principal do computador, por ser volátil, precisa ser atualizada com dados e instruções cada vez que o computador é ligado. Denominações mais usadas para esse tipo de memória são: Memória Principal, Memória, Memória RAM, RAM, DRAM
+
+Escrever porque nem sempre memórias com maiores velocidades são mais eficientes que memórias com menores latências.
+
+- Por que quanto menor for a latência, menor será o tempo necessário para que um dado trafegue de um lugar para outro, ganhando deste modo em eficiência.
