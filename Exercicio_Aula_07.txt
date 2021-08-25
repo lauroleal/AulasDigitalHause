@@ -1,0 +1,21 @@
+Pesquisar se sistemas embarcados podem ser (ou não) computadores:
+
+- Um sistema embarcado (ou sistema embutido) é um sistema microprocessado no qual o computador é completamente encapsulado ou dedicado ao dispositivo ou sistema que ele controla, ou seja sim pode ser um computador;
+
+Pesquisar as seguintes nomenclaturas:
+
+- Monotarefa: São sistemas que permitem a execução apenas de uma tarefa de cada vez
+- Multitarefa: Quando um sistema operacional permite a execução de mais de um programa ao mesmo tempo
+- Monoprocessado: São sistemas criados com o intuito de executar instruções através de um único processador.
+- Multiprocessado: É um sistema integrado de computação com as seguintes características: Envolve dois ou mais processadores físicos (sejam processadores separados ou múltiplos núcleos encapsulados no mesmo chip) ou lógicos com o mesmo poder computacional e cada um capaz de executar processos autonomamente.
+
+Escrever porque processadores muito fortes não podem ser pareados com placas de vídeo muito fracas e vice-versa:
+
+- Pode ocasionar um desequilibrio que pode vir a prejudicar o desempenho do computador.
+
+Escrever porque quanto menor a litografia dos processadores, mais eficientes eles ficam:
+
+- Basicamente, quando uma fabricante muda seu processo de fabricação e adota um padrão de litografia menor, isso significa que os transistores dentro do processador realmente serão menores, assim como seus subcomponentes.
+essa redução no tamanho dos transistores possibilita a inclusão de mais componentes em uma mesma área. Pois bem, considerando que o aumento em desempenho geralmente se dá pelo acréscimo de transistores, fica evidente que, ao usar um processo de menor litografia, é possível obter mais desempenho.
+
+(https://www.tecmundo.com.br/produto/118921-processadores-tem-cada-vez-nanometros.htm)
